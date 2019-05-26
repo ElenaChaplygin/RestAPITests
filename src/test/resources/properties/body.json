@@ -1,0 +1,9 @@
+{
+	"trip": {
+	"userId": "admin",
+	"tripDetails": {
+		"destination":"London",
+		"durationInDays": 7,
+		"type": "romantic"
+	}
+}}
